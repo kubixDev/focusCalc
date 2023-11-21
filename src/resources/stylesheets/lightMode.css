@@ -1,0 +1,126 @@
+@font-face {
+    src: url("/resources/fonts/MADETOMMY.otf");
+}
+
+.mainBackground {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #343a40;
+}
+
+.mainButton {
+    -fx-background-color: #fafafa;
+    -fx-text-fill: #343a40;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 25px;
+}
+
+.mainButton:hover {
+    -fx-background-color: #f0efef;
+    -fx-text-fill: #343a40;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 25px;
+}
+
+.mainButton:pressed {
+    -fx-background-color: #e4e4e4;
+    -fx-text-fill: #343a40;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 25px;
+}
+
+.greenButton {
+    -fx-background-color: #ebfaf4;
+    -fx-text-fill: #52ca9e;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 22px;
+}
+
+.greenButton:hover {
+    -fx-background-color: #d7f8eb;
+    -fx-text-fill: #52ca9e;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 22px;
+}
+
+.greenButton:pressed {
+    -fx-background-color: #bcf4dd;
+    -fx-text-fill: #52ca9e;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 22px;
+}
+
+.greenButtonText {
+    -fx-background-color: #ebfaf4;
+    -fx-text-fill: #52ca9e;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 16px;
+}
+
+.greenButtonText:hover {
+    -fx-background-color: #d7f8eb;
+    -fx-text-fill: #52ca9e;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 16px;
+}
+
+.greenButtonText:pressed {
+    -fx-background-color: #bcf4dd;
+    -fx-text-fill: #52ca9e;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 16px;
+}
+
+.redButton {
+    -fx-background-color: #f8d9dd;
+    -fx-text-fill: #d6273c;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 25px;
+}
+
+.redButton:hover {
+    -fx-background-color: #f8ccd2;
+    -fx-text-fill: #d6273c;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 25px;
+}
+
+.redButton:pressed {
+    -fx-background-color: #f6bec5;
+    -fx-text-fill: #d6273c;
+    -fx-background-radius: 17;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 25px;
+}
+
+.logoLabel {
+    -fx-text-fill: linear-gradient(to right, #f20089, #bc00dd, #a100f2);
+    -fx-font-family: "MADE TOMMY";
+}
+
+.upperBar {
+    -fx-background-color: #ffffff;
+}
+
+.modeSwitch {
+    -fx-background-color: #fafafa;
+    -fx-text-fill: #343a40;
+    -fx-background-radius: 17;
+}
+
+.textField {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #343a40;
+    -fx-font-family: "MADE TOMMY";
+    -fx-font-size: 30px;
+}
